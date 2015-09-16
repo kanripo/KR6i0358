@@ -1,21 +1,20 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:17:15.780257
+#+DATE: 2015-08-30 20:17:16.983738
 #+TITLE: 佛說佛地經
 #+PROPERTY: CBETA_ID T16n0680
 #+PROPERTY: ID KR6i0358
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 16, No. 680
 #+PROPERTY: VOL 16
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6i0358_T_000-0720b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0358_T_001-0720b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
 ¶
-No.680¶
-
- 《佛說佛地經》¶
+No. 680¶
+《佛說佛地經》¶
 ¶
 大唐三藏法師玄奘奉　詔譯¶
 
